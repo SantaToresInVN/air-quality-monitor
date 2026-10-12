@@ -60,14 +60,4 @@ Validation focused on functional integration and alert behavior. Measurement acc
 ## Technology Stack
 
 C/C++, ESP32, Arduino IDE, DHT11, SGP30, MQ135, GPIO, ADC, I2C, Wi-Fi, MQTT, JSON, Mosquitto, Home Assistant, Jinja2, HACS and VirtualBox.
-## Technical Report
 
-[Read the full technical report (PDF)](report.pdf)
-
-## Home Assistant Dashboard
-
-Scan the QR code below to open my Home Assistant dashboard.
-
-<img src="TRAM%20NGHIEN%20CUU%20KHOA%20HOC%20-%20IOT.png"
-     alt="QR code linking to the Home Assistant dashboard"
-     width="220">
